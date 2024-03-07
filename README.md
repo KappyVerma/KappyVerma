@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Verma</h1>
+<h1 align="left">Karan Verma | FullStack Developer | Vancouver </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kappyverma&label=Profile%20views&color=0e75b6&style=flat" alt="kappyverma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kappyverma" alt="kappyverma" /></a> </p>
