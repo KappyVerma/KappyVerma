@@ -48,8 +48,9 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappyverma&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappyverma&layout=compact&theme=dark)](https://github.com/kappyverma)
 
 ## Connect with Me
-Let's connect and discuss new ideas! 🌐
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karranverma/)
+Let's connect and discuss new ideas! 🌐 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karranverma/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karranverma@gmail.com)
 
 
