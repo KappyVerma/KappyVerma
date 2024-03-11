@@ -7,30 +7,31 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
 
 ## Skills
 ### Frontend Development
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### Backend Development
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Authentication & Authorization
-- ![Jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+ ![Jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### Deployment & Version Control
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Tools
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Projects
 ### The Adventure Log 
@@ -39,12 +40,12 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
   - **User Authentication:** Allow users to sign up, log in, and manage their profiles securely.
   - **Destination List Management:** Create, edit, and delete destinations in the user's bucket list. Mark destinations as visited to track progress.
   - **To-do list, Images, and Ratings:** Users can create to-do, upload images, and rate various types of places they visit. Each destination can have detailed notes, memorable images, and personalized ratings to enhance their travel experience.
-
-#### [![AdventureLog](https://img.shields.io/badge/View%20Project-2962FF?style=for-the-badge&logoColor=white)](https://github.com/KappyVerma/karan-verma-capstone)
+  - 
+[![AdventureLog](https://img.shields.io/badge/Application-2962FF?style=for-the-badge&logoColor=white)](https://theadventurelog.netlify.app/)
+[![AdventureLog](https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logoColor=white)](https://github.com/KappyVerma/karan-verma-capstone)
 
 ## GitHub Stats
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappyverma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappyverma&layout=compact&theme=dark)](https://github.com/kappyverma)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappyverma&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappyverma&layout=compact&theme=dark)](https://github.com/kappyverma)
 
 ## Connect with Me
 Let's connect and discuss new ideas! 🌐
