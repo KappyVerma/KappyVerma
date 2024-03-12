@@ -5,6 +5,10 @@ Hi, My name is Karan. I have over a decade of experience in auditing and logisti
 
 In my desire for constant growth, I am moving into an exciting shift in the creative world of web development. This decision is because of my diverse skill set and my ability to adapt and learn quickly, which will be invaluable in this industry. Web development interests me because it pushes me to hone  these skill sets through problem solving and innovation.
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karranverma/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karranverma@gmail.com)
+
 ## Skills
 ### Frontend Development
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,12 +50,6 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
 
 ## GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappyverma&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappyverma&layout=compact&theme=dark)](https://github.com/kappyverma)
-
-## Connect with Me
-Let's connect and discuss new ideas! 🌐 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karranverma/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karranverma@gmail.com)
 
 
 ## Interests
