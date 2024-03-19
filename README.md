@@ -44,8 +44,8 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
   - **Destination List Management:** Create, edit, and delete destinations in the user's bucket list. Mark destinations as visited to track progress.
   - **To-do list, Images, and Ratings:** Users can create to-do, upload images, and rate various types of places they visit. Each destination can have detailed notes, memorable images, and personalized ratings to enhance their travel experience.
   - 
-[![AdventureLog](https://img.shields.io/badge/Application-2962FF?style=for-the-badge&logoColor=white)](https://theadventurelog.netlify.app/)
-[![AdventureLog](https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logoColor=white)](https://github.com/KappyVerma/karan-verma-capstone)
+[![AdventureLog](https://img.shields.io/badge/View%20Project-2962FF?style=for-the-badge&logoColor=white)](https://theadventurelog.netlify.app/)
+[![AdventureLog](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logoColor=white)](https://github.com/KappyVerma/karan-verma-capstone)
 
 ## GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappyverma&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappyverma&layout=compact&theme=dark)](https://github.com/kappyverma)
