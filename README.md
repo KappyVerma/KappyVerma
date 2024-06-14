@@ -38,6 +38,13 @@ In my desire for constant growth, I am moving into an exciting shift in the crea
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Ongoing Projects
+### E-commerce Site 
+- **Technologies:**  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Description:** Currently developing a dynamic and responsive e-commerce site utilizing modern web technologies. The site focuses on delivering a seamless shopping experience with robust backend support.
+  
+ 
 ## Projects
 ### The Adventure Log 
 - **Description:** The Adventure Log is a full-stack web application where users can create destination cards for upcoming or past trips. Within these destination cards, users can add todos, upload images, and add notes to enhance their travel experience.
